@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="780" src="https://github.com/NEON-XZR/Collapsing-Faction/blob/main/Img/header.png">
+    <img width="780" src="https://github.com/NEON-XZR/Collapsing-Faction/blob/main/Img/header2.png">
 </p>
 <h3 align="center">Crux are true warriors... And we are just invaders...</h3>
     
