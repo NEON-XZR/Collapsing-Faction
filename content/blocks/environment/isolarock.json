@@ -1,0 +1,6 @@
+{
+  "type": "Floor",
+  "variants": 7,
+  "wall": "isolarock-wall",
+  "decoration": "isolarock-boulder"
+}

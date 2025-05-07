@@ -1,0 +1,6 @@
+{
+  "type": "Floor",
+  "variants": 6,
+  "wall": "deadgrass-wall",
+  "decoration": "deadgrass-clump"
+}

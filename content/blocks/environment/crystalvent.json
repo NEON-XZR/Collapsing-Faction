@@ -1,0 +1,25 @@
+  "type": "SteamVent",
+  "parent": "caverock",
+  "blendGroup": "caverock",
+  "effect": {
+    "type": "ParticleEffect",
+    "particles": 12,
+    "lifetime": 300,
+    "length": 48,
+    "colorFrom": "9e78dc",
+    "colorTo": "5541b1",
+    "interp": "sineOut",
+    "lightScl": 4,
+    "lightOpacity": 0.3,
+    "lightColor": "9e78dc",
+    "spin": 0.05,
+    "sizeFrom": 10,
+    "region": "large-bomb"
+  },
+  "effectSpacing": 60,
+  "emitLight": true,
+  "lightColor": "9e78dc4d",
+  "variants": 2,
+  "attributes": {
+    "steam": 1,
+  }

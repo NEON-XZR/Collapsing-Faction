@@ -1,0 +1,9 @@
+{
+  "type": "Conveyor",
+  "health": 50,
+  "speed": 0.05,
+  "requirements": [
+    "1-0-rawiron/1"
+  ],
+  "category": "distribution"
+}
