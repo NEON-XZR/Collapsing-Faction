@@ -1,0 +1,10 @@
+{
+    "type": "drill",
+    "drillTime": 630,
+    "tier": 1.3,
+    "size": 2,
+    "category": "production",
+    "requirements": [
+        "1-0-rawiron/15"
+    ]
+}
