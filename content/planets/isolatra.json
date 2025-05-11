@@ -57,7 +57,7 @@
             "type": "HexSkyMesh",
             "seed": 1,
             "speed": 0.8,
-            "radius": 0.01,
+            "radius": 0.18,
             "divisions": 5,
             "color": "de9458cc",
             "octaves": 3
@@ -66,7 +66,7 @@
             "type": "HexSkyMesh",
             "seed": 3,
             "speed": 0.4,
-            "radius": 0.08,
+            "radius": 0.16,
             "divisions": 8,
             "color": "de94588f",
             "octaves": 10
