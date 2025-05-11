@@ -1,0 +1,99 @@
+{
+    "type": "Planet",
+    "generator": "PlanetGenerator",
+    "mesh": [
+        {
+            "type": "NoiseMesh",
+            "seed": 1,
+            "divisions": 5,
+            "color1": "3c3838",
+            "color2": "3c3838",
+            "radius": 1.2,
+            "mag": 0.1
+        },
+        {
+            "type": "NoiseMesh",
+            "seed": 20,
+            "divisions": 5,
+            "color1": "080047",
+            "color2": "00dbcd",
+            "radius": 1,
+            "mag": 0.4
+        },
+        {
+            "type": "NoiseMesh",
+            "seed": 20,
+            "divisions": 5,
+            "color1": "de9458",
+            "color2": "de9458",
+            "radius": 1,
+            "octaves": 3,
+            "mag": 2,
+            "persistence": 0.8
+        },
+        {
+            "type": "NoiseMesh",
+            "seed": 20,
+            "divisions": 5,
+            "color1": "5c5c5c",
+            "color2": "a6a2a2",
+            "radius": 0.84,
+            "octaves": 3,
+            "mag": 4,
+            "persistence": 0.8
+        }
+    ],
+        "cloudMesh": [ 
+        {
+            "type": "HexSkyMesh",
+            "seed": 20,
+            "speed": 1,
+            "radius": 0.2,
+            "divisions": 4,
+            "color": "de9458f2",
+            "octaves": 1
+        },
+        {
+            "type": "HexSkyMesh",
+            "seed": 1,
+            "speed": 0.8,
+            "radius": 0.01,
+            "divisions": 5,
+            "color": "de9458cc",
+            "octaves": 3
+        },
+        {
+            "type": "HexSkyMesh",
+            "seed": 3,
+            "speed": 0.4,
+            "radius": 0.08,
+            "divisions": 8,
+            "color": "de94588f",
+            "octaves": 10
+        }
+    ],
+    "alwaysUnlocked": true,
+    "sectorSize": 3,
+    "minZoom": 0.8,
+    "radius": 1.1,
+    "drawOrbit": true,
+    "atmosphereRadIn": 0,
+    "atmosphereRadOut": 0.3,
+    "sectorSeed": 687,
+    "accessible": true,
+    "updateLighting": true,
+    "bloom": true,
+    "orbitRadius": 100,
+    "visible": true,
+    "atmosphereColor": "de9458",
+    "iconColor": "de9458",
+    "hasAtmosphere": true,
+    "allowWaveSimulation": true,
+    "allowLaunchToNumbered": true,
+    "clearSectorOnLose": true,
+    "allowWaves": true,
+    "icon": "planet",
+    "defaultCore": "core-nucleus",
+    "parent": "sun",
+    "solarSystem": "sun"
+}
