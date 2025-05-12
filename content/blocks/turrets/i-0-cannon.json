@@ -90,7 +90,50 @@
                     "length": 2,
                     "colorFrom":"c4c2be",
                     "colorTo":"a19d94",
-                    "interp": "exp10Out"
+                    "interp": "exp10In"
+                },
+                {
+                    "type": "ParticleEffect",
+                    "particles": 5,
+                    "lifetime": 30,
+                    "length": 20,
+                    "colorFrom":"c4c2be",
+                    "colorTo":"a19d94",
+                    "interp": "pow5Out",
+                    "line": true,
+                    "strokeFrom": 4,
+                    "lenFrom": 5,
+                    "lenTo": 0
+                }
+            ],
+            "hitEffect": [
+                {
+                    "type": "ParticleEffect",
+                    "particles": 1,
+                    "sizeFrom": 5,
+                    "sizeTo": 7,
+                    "lifetime": 3,
+                    "length": 0,
+                    "colorFrom":"c4c2beab",
+                    "colorTo":"c4c2be00"
+                },
+                {
+                    "type": "WaveEffect",
+                    "colorFrom":"c4c2be",
+                    "colorTo": "a19d94",
+                    "sizeTo": 7,
+                    "interp": "pow3Out"
+                },
+                {
+                    "type": "ParticleEffect",
+                    "particles": 5,
+                    "sizeFrom": 5,
+                    "sizeTo": 0,
+                    "lifetime": 240,
+                    "length": 2,
+                    "colorFrom":"c4c2be",
+                    "colorTo":"a19d94",
+                    "interp": "exp10In"
                 },
                 {
                     "type": "ParticleEffect",
@@ -133,7 +176,36 @@
             "trailInterval": 1,
             "hitSize": 10,
             "frontColor": "c4c2be",
-            "backColor": "a19d94"
+            "backColor": "a19d94",
+            "fragBullets": 5,
+            "fragBullet": {
+                "type": "BasicBulletType",
+                "width": 2,
+                "height": 4,
+                "damage": 1,
+                "speed": 8,
+                "lifetime": 4,
+                "hitEffect": {
+                    "type": "ParticleEffect",
+                    "particles": 1,
+                    "length": 0,
+                    "lifetime": 60,
+                    "interp": "exp10In",
+                    "sizeFrom": 2,
+                    "colorFrom":"c4c2be",
+                    "colorTo": "c4c2be"
+                },
+                "despawnEffect": {
+                    "type": "ParticleEffect",
+                    "particles": 1,
+                    "length": 0,
+                    "lifetime": 120,
+                    "interp": "exp10In",
+                    "sizeFrom": 2,
+                    "colorFrom":"c4c2be",
+                    "colorTo": "c4c2be"
+                }
+            }
         },
         "1-5-ironingot": {
             "type": "BasicBulletType",
@@ -216,7 +288,50 @@
                     "length": 2,
                     "colorFrom":"a19d94",
                     "colorTo":"827e75",
-                    "interp": "exp10Out"
+                    "interp": "exp10In"
+                },
+                {
+                    "type": "ParticleEffect",
+                    "particles": 5,
+                    "lifetime": 30,
+                    "length": 20,
+                    "colorFrom":"827e75",
+                    "colorTo":"827e75",
+                    "interp": "pow5Out",
+                    "line": true,
+                    "strokeFrom": 4,
+                    "lenFrom": 5,
+                    "lenTo": 0
+                }
+            ],
+            "hitEffect": [
+                {
+                    "type": "ParticleEffect",
+                    "particles": 1,
+                    "sizeFrom": 5,
+                    "sizeTo": 7,
+                    "lifetime": 3,
+                    "length": 0,
+                    "colorFrom":"a19d94ab",
+                    "colorTo":"a19d9400"
+                },
+                {
+                    "type": "WaveEffect",
+                    "colorFrom":"a19d94",
+                    "colorTo": "827e7500",
+                    "sizeTo": 7,
+                    "interp": "pow3Out"
+                },
+                {
+                    "type": "ParticleEffect",
+                    "particles": 5,
+                    "sizeFrom": 5,
+                    "sizeTo": 0,
+                    "lifetime": 240,
+                    "length": 2,
+                    "colorFrom":"a19d94",
+                    "colorTo":"827e75",
+                    "interp": "exp10In"
                 },
                 {
                     "type": "ParticleEffect",
