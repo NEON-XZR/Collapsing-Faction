@@ -4,7 +4,7 @@
     "health": 350,
     "range": 176,
     "reload": 60,
-    "shootSound": "bang",
+    "shootSound": "artilleryshot",
     "shootCone": 30,
     "targetAir": "false",
     "recoil": 0,
