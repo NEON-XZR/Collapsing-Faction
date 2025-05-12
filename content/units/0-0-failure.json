@@ -1,0 +1,32 @@
+{
+    "type": "mech",
+    "health": 90,
+    "speed": 0.6,
+    "hitsize": 8,
+    "mechSideSway": 0.3,
+    "mechFrontSway": 0.4,
+    "mechStride": 5,
+    "weapons": [
+        {
+            "name": "0-0-failure-weapon",
+            "reload": 20,
+            "top": false,
+            "shootSound": "shoot",
+            "x": 6,
+            "shoot": {
+                "type": "ShootPattern",
+                "shots": 5,
+                "shotDelay": 1
+            },
+            "inaccuracy": 40,
+            "bullet": {
+                "type": "BasicBulletType",
+                "damage": 0.5,
+                "speed": 2.5,
+                "lifetime": 60,
+                "width": 3,
+                "height": 7
+            }
+        }
+    ]
+}
