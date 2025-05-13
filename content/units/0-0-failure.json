@@ -12,7 +12,8 @@
             "reload": 20,
             "top": false,
             "shootSound": "shoot",
-            "x": 6,
+            "x": 6.1,
+            "y": 0.5,
             "shoot": {
                 "type": "ShootPattern",
                 "shots": 5,
