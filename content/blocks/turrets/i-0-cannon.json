@@ -401,4 +401,10 @@
             }
         ]
     }
+    "research": {
+      "parent": "h-0-marki",
+      "requirements": [
+          "1-0-rawiron/60"
+        ]
+    }
 }
