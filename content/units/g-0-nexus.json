@@ -25,7 +25,7 @@
   "weapons": [
     {
       "name": "g-0-nexus-weapon",
-      "reload": 2,
+      "reload": 3,
       "layerOffset": -0.001,
       "alternate": false,
       "shootCone": 90,
@@ -33,7 +33,7 @@
       "y": 2,
       "bullet": {
         "type": "BasicBulletType",
-        "damage": 5,
+        "damage": 4,
         "lifetime": 37.5,
         "speed": 4,
         "width": 5,
