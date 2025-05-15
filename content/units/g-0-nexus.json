@@ -1,0 +1,47 @@
+{
+  "controller": "BuilderAI",
+  "isEnemy": false,
+  "lowAltitude": true,
+  "flying": true,
+  "mineSpeed": 7,
+  "mineTier": 1.3,
+  "buildSpeed": 0.6,
+  "rotateSpeed": 10,
+  "omniMovement": false,
+  "rotateMoveFirst": true,
+  "speed": 5,
+  "fogRadius": 0,
+  "drag": 0.05,
+  "accel": 0.05,
+  "engineSize": 1,
+  "trailScl": 3,
+  "trailLength": 4,
+  "engineOffset": 0,
+  "trailColor": "ffd380",
+  "health": 130,
+  "itemCapacity": 30,
+  "hitSize": 8,
+  "alwaysUnlocked": true,
+  "weapons": [
+    {
+      "name": "g-0-nexus-weapon",
+      "reload": 2,
+      "layerOffset": -0.001,
+      "alternate": false,
+      "shootCone": 90,
+      "x": 3,
+      "y": 2,
+      "bullet": {
+        "type": "BasicBulletType",
+        "damage": 5,
+        "lifetime": 37.5,
+        "speed": 4,
+        "width": 5,
+        "height": 10,
+        "homingPower": 0.2,
+        "homingRange": 80,
+        "buildingDamageMultiplier": 0.01
+      }
+    }
+  ]
+}
