@@ -92,8 +92,13 @@
     "allowLaunchToNumbered": true,
     "clearSectorOnLose": true,
     "allowWaves": true,
+    "allowSectorInvasion": false,
     "icon": "planet",
-    "defaultCore": "core-nucleus",
+    "defaultCore": "h-0-marki",
     "parent": "sun",
-    "solarSystem": "sun"
+    "solarSystem": "sun",
+    "itemWhitelist": [
+      "1-0-rawiron",
+      "1-5-ironingot"
+    ]
 }
