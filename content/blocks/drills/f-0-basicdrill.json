@@ -6,5 +6,11 @@
     "category": "production",
     "requirements": [
         "1-0-rawiron/15"
-    ]
+    ],
+    "research": {
+      "parent": "h-0-marki",
+      "requirements": [
+          "1-0-rawiron/10"
+        ]
+    }
 }
