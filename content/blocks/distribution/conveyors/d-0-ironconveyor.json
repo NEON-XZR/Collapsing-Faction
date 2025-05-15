@@ -5,5 +5,11 @@
   "requirements": [
     "1-0-rawiron/1"
   ],
-  "category": "distribution"
+  "category": "distribution",
+  "research": {
+    "parent": "h-0-marki",
+    "requirements": [
+      "1-0-rawiron/5"
+    ]
+  }
 }
