@@ -19,14 +19,15 @@
                 "shots": 5,
                 "shotDelay": 1
             },
-            "inaccuracy": 40,
+            "inaccuracy": 5,
             "bullet": {
                 "type": "BasicBulletType",
-                "damage": 0.5,
+                "damage": 7,
                 "speed": 2.5,
                 "lifetime": 60,
                 "width": 3,
-                "height": 7
+                "height": 7,
+                "buildingDamageMultiplier": 0.08
             }
         }
     ]
