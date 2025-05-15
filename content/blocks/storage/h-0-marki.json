@@ -1,0 +1,21 @@
+{
+  "type": "CoreBlock",
+  "health": 1400,
+  "buildVisibility": "editorOnly",
+  "isFirstTier": true,
+  "size": 3,
+  "itemCapacity": 4500,
+  "buildCostMultiplier": 3,
+  "squareSprite": false,
+  "alwaysUnlocked": true,
+  "requirements": [
+    "1-0-rawiron/4300"
+  ],
+  "research": {
+    "root": true,
+    "name": "Isolatra",
+  }
+  "unitCapModifier": 10,
+  "category": "effect",
+  "unitType": "g-0-nexus"
+  }
