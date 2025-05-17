@@ -10,7 +10,7 @@
         ]
     },
     "category": "defense",
-    "health": 60,
+    "health": 250,
     "variants": 4,
     "squareSprite": false
 }

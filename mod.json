@@ -1,9 +1,9 @@
 {
   "name": "colfac",
   "displayName": "Collapsing Faction",
-  "subtitle": "Crux are the true warriors..."
+  "subtitle": "Crux are the true warriors...",
   "author": "chaoticmarzu",
-  "description": "This mod it's just some random mods with some random lore. I don't put too much effort in this mod so expect a low quality mod.",
+  "description": "This mod it's just some random mods with some random lore. I don't put too much effort in this mod so expect a low quality mod. Not suitable for multiplayer!",
   "version": "0.1, Testing",
   "minGameVersion": "146"
 }

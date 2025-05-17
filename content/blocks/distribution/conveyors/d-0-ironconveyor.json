@@ -11,5 +11,6 @@
     "requirements": [
       "1-0-rawiron/5"
     ]
-  }
+  },
+  "junctionReplacement": "d-4-ironjunction"
 }
