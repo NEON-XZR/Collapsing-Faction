@@ -400,9 +400,11 @@
                 "suffix": "-body"
             }
         ]
-    }
+    },
     "research": {
       "parent": "h-0-marki",
-    },
-    "alwaysUnlocked": true
+      "requirements": [
+        "1-0-rawiron/60"
+      ]
+    }
 }

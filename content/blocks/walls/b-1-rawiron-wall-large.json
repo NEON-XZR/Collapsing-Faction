@@ -1,0 +1,17 @@
+{
+    "type": "Wall",
+    "variants": 3,
+    "size": 2,
+    "squareSprite": false,
+    "requirements": [
+        "1-0-rawiron/30"
+    ],
+    "research": {
+        "parent": "b-0-rawiron-wall",
+        "requirements": [
+            "1-0-rawiron/620"
+        ]
+    },
+    "category": "defense",
+    "health": 1130
+}

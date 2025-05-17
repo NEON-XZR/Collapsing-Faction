@@ -1,0 +1,16 @@
+{
+    "type": "Wall",
+    "requirements": [
+        "1-0-rawiron/10"
+    ],
+    "research": {
+        "parent": "i-0-cannon",
+        "requirements": [
+            "1-0-rawiron/30"
+        ]
+    },
+    "category": "defense",
+    "health": 60,
+    "variants": 4,
+    "squareSprite": false
+}

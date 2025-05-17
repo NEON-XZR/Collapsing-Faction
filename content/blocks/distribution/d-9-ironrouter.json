@@ -1,0 +1,15 @@
+{
+    "type": "Router",
+    "requirements": [
+        "1-0-rawiron/5"
+    ],
+    "buildCostMultiplier": 4,
+    "category": "distribution",
+    "research": {
+        "parent": "d-4-ironjunction",
+        "requirements": [
+            "1-0-rawiron/100"
+        ]
+    },
+    "health": 50
+}

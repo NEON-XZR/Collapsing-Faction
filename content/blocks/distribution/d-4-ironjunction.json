@@ -1,0 +1,16 @@
+{
+    "type": "Junction",
+    "health": 50,
+    "speed": 30,
+    "requirements": [
+        "1-0-rawiron/5"
+    ],
+    "buildCostMultiplier": 6,
+    "category": "distribution",
+    "research": {
+        "parent": "d-0-ironconveyor",
+        "requirements": [
+            "1-0-rawiron/100"
+        ]
+    }
+}
