@@ -8,3 +8,6 @@ Crux has been defeated from Serpulo and retreated to a planet called Isolatra. F
 
 >[!NOTE]
 >This mod it's just some random mods with some random lore. I don't put too much effort in this mod so expect a low quality mod
+
+>[!CAUTION]
+>This mod is not suitable for multiplayer!
