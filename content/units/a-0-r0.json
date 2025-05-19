@@ -8,8 +8,8 @@
         "name": "a-0-r0-weapon",
         "continuous": true,
         "alwaysContinuous": true,
-        "layer": -0.07,
-        "x": 5,
+        "layer": -0.01,
+        "x": 4.75,
         "y": -6
       }
     ]
