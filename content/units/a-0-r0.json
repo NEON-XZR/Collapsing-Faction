@@ -5,12 +5,13 @@
   "hitsize": 16,
   "weapons": [
     {
-      "name": "weapon",
+      "name": "a-0-r0-weapon",
       "continuous": true,
       "alwaysContinuous": true,
       "top": false,
       "mirror": false,
       "recoil": 0,
+      "x": 0,
       "bullet": {
         "type": "ContinuousFlameBulletType",
         "damage": 2.17,
@@ -21,7 +22,7 @@
       "parts": [
         {
           "type": "RegionPart",
-          "name": "colfac-a-0-r0-weapon",
+          "weapon": "-part",
           "mirror": true,
           "x": 6.35,
           "y": -7
