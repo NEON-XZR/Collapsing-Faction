@@ -18,11 +18,15 @@
         "statusDuration": 240,
         "length": 75.6
       }
-      "parts": {
-        "type": "RegionPart",
-        "name": "a-0-r0-weapon",
-        "mirror": true
-      }
+      "parts": [
+        {
+          "type": "RegionPart",
+          "name": "a-0-r0-weapon",
+          "mirror": true,
+          "x": 6.35,
+          "y": -7
+        }
+      ]
     }
   ]
 }
