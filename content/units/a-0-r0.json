@@ -22,7 +22,7 @@
       "parts": [
         {
           "type": "RegionPart",
-          "weapon": "-part",
+          "suffix": "-part",
           "mirror": true,
           "x": 6.35,
           "y": -7
