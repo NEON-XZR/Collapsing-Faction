@@ -9,8 +9,8 @@
         "continuous": true,
         "alwaysContinuous": true,
         "top": false,
-        "layer": -0.01,
-        "x": 5,
+        "layer": -0.009,
+        "x": 7,
         "y": -6
       }
     ]
