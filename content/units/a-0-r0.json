@@ -21,9 +21,7 @@
       "parts": {
         "type": "RegionPart",
         "name": "a-0-r0-weapon",
-        "mirror": true,
-        "x": 6.35,
-        "y": -7
+        "mirror": true
       }
     }
   ]
