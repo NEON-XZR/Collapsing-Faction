@@ -5,7 +5,7 @@
   "hitsize": 16,
   "weapons": [
     {
-      "name": "a-0-r0-weapon",
+      "name": "weapon",
       "continuous": true,
       "alwaysContinuous": true,
       "top": false,
